@@ -1,6 +1,7 @@
+<img width = "1500" align = "center" src="https://miro.medium.com/v2/resize:fit:720/1*mB6YLIGqIk1hTzU6Fb12zQ.gif">
+
 <h1 align="center">Hi 👋, I'm Milovan Jevtovic</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
-
 
 - 🌱 I’m currently learning **Vue.js.**
 
